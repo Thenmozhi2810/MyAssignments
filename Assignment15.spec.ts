@@ -1,18 +1,4 @@
 
-// Week 2 -> Day 2 -> Assignment 5  => UPLOAD
-
-// Week 3 -> Day 3 -> CA check
-
-// Week 3 -> Day 4 -> Assignment 11
-
-// Week 4 -> Day 2 -> CA 2 & Assignment 13  ==> CA 2 UPLOAD
-
-// Week 4 -> Day 3 -> Assignment 14
-
-// Week 4 -> Day 4 -> Assignment 15
-
-
-
 import test from "@playwright/test"
 
 import {parse} from "csv-parse/sync"
