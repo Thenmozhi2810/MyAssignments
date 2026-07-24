@@ -3,6 +3,9 @@
 
 class Demonstrate
 {
+    reportStep(msg:string, status:string) : void
+    reportStep(msg:string, status:string, snap?:boolean) : void
+    
     reportStep(msg:string, status:string, snap?:boolean) : void
     {
         if(snap)
